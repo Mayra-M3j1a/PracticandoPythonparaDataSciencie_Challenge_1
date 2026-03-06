@@ -8,12 +8,12 @@ El objetivo de este desafío es ayudar al señor Juan a decidir qué tienda debe
 Con este desafío, se odrá aplicar conceptos clave como manipulación de datos con Pandas, estructuración de datos en listas, uso de condicionales, funciones y visualización de información para obtener insights valiosos sobre las tiendas de Alura Store.
 </p>
 
-3. La estructura del proyecto y organización de los archivos.
+2 La estructura del proyecto y organización de los archivos.
 <p align="justify">
-Crea un nuevo repositorio en GitHub para almacenar tu proyecto.
-Exporta tu cuaderno de Colab como un archivo .ipynb.
-Realiza el upload del cuaderno al repositorio.
-Mantén tu trabajo actualizado utilizando git pull, git add, git commit y git push cuando sea necesario.
+*Crea un nuevo repositorio en GitHub para almacenar tu proyecto.
+*Exporta tu cuaderno de Colab como un archivo .ipynb.
+*Realiza el upload del cuaderno al repositorio.
+*Mantén tu trabajo actualizado utilizando git pull, git add, git commit y git push cuando sea necesario.
 </p>
 
 5. Ejemplos de gráficos e insights obtenidos.
