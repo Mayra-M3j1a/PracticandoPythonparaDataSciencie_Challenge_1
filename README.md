@@ -10,10 +10,10 @@ Con este desafío, se odrá aplicar conceptos clave como manipulación de datos 
 
 2 La estructura del proyecto y organización de los archivos.
 
-*Crea un nuevo repositorio en GitHub para almacenar tu proyecto.
-*Exporta tu cuaderno de Colab como un archivo .ipynb.
-*Realiza el upload del cuaderno al repositorio.
-*Mantén tu trabajo actualizado utilizando git pull, git add, git commit y git push cuando sea necesario.
++ Crea un nuevo repositorio en GitHub para almacenar tu proyecto.
++ Exporta tu cuaderno de Colab como un archivo .ipynb.
++ Realiza el upload del cuaderno al repositorio.
++ Mantén tu trabajo actualizado utilizando git pull, git add, git commit y git push cuando sea necesario.
 
 
 5. Ejemplos de gráficos e insights obtenidos.
