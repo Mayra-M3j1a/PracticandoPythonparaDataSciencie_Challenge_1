@@ -15,6 +15,8 @@ Mantén tu trabajo actualizado utilizando git pull, git add, git commit y git pu
 
 Ejemplos de gráficos e insights obtenidos.
 
+<img width="1600" height="661" alt="Code_Generated_tiendasCh1" src="https://github.com/user-attachments/assets/db687422-5473-436b-bb75-57d128472f12" />
+
 Instrucciones para ejecutar el notebook.
 
 ANALISIS: Tras un análisis exhaustivo de los indicadores clave de desempeño (KPIs) de las cuatro unidades de negocio, se ha evaluado la viabilidad financiera y operativa de cada tienda. El análisis se centró en la relación entre el volumen de ventas, la fidelización del cliente (valoración) y la eficiencia logística (costos de envío).
